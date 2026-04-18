@@ -32,5 +32,5 @@ Developed a CNN-based image restoration model to remove real-world noise from im
 ## Business Relevance (Data Analyst Perspective)
 This project strengthened my ability to handle large-scale image datasets, perform feature extraction, and evaluate model performance — skills directly transferable to **MIS reporting, dashboarding, and data reconciliation** in FinTech.
 
-**Repository Link:** [https://github.com/yourusername/image-restoration-deep-learning-vit](https://github.com/yourusername/image-restoration-deep-learning-vit)  
+**Repository Link:** [https://github.com/haripriyaramaraj/image-restoration-deep-learning-vitap](https://github.com/haripriyaramaraj/image-restoration-deep-learning-vitap)  
 **Duration:** 3 months | **Tools:** TensorFlow, OpenCV, Python
