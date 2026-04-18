@@ -1,4 +1,3 @@
-# image-restoration-deep-learning-vitap
 # Image Restoration using Deep Learning  
 **Vellore Institute of Technology (VIT) | Mar 2023 – May 2023 | Individual Research Project**
 
